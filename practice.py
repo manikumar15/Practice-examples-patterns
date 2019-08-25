@@ -363,4 +363,10 @@
 # 	Python. Django Admin Interface. Django provides a default admin interface which can be used 
 # 	to perform create, read, update and delete operations on the model directly.
 # ---------------------------------------------------------------------------------------------------------------------------------------
-
+# what is monkey patching?
+# 	Python is a dynamic programming language and therefore the classes in python 
+# 	are mutable so that you can reopen them, modify, or even replace them. 
+# 	In simple words, monkey patching is making changes to a module or class while the program is running. 
+# 	It refers to reopening the existing classes or methods in class at runtime and changing their behavior
+# 	according to the requirement. This code can be used whenever you need it. A Monkey Patch is a piece of Python
+# 	code which extends or modifies other code at runtime.
