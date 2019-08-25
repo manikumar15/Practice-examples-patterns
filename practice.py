@@ -323,6 +323,10 @@
 # 	pickle has two main methods. The first one is dump, which dumps an object to a file object 
 # 	and the second one is load, which loads an object from a file object.
 
+#	Pickling in python refers to the process of serializing objects into binary streams, 
+# 	while unpickling is the inverse of that. It’s called that because of the pickle module 
+# 	in Python which implements the methods to do this.
+
 # what is self in python?
 # 	self : self represents the instance of the class. By using the "self" keyword we can access the attributes
 # 	and methods of the class in python.
